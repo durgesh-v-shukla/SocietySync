@@ -33,8 +33,8 @@ A **Smart Apartment ERP System** built with **Python, Streamlit, and PostgreSQL*
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/durgesh-v-shukla/SocietySync.git
-cd SocietySync
+git clone https://github.com/durgesh-v-shukla/societysync-smart_apartment_erp_system.git
+cd societysync-smart_apartment_erp_system
 ````
 
 ---

@@ -7,7 +7,7 @@
 
 A **Smart Apartment ERP System** built with **Python, Streamlit, and PostgreSQL** to manage residential society operations seamlessly.  
 
-**GitHub Repository:** [https://github.com/durgesh-v-shukla/SocietySync](https://github.com/durgesh-v-shukla/SocietySync)
+**GitHub Repository:** [https://github.com/durgesh-v-shukla/SocietySync-Smart_Apartment_ERP_System](https://github.com/durgesh-v-shukla/SocietySync-Smart_Apartment_ERP_System)
 
 ---
 

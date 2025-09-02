@@ -1,0 +1,108 @@
+INSERT INTO public.users VALUES (2, 'owner_durgesh_shukla', '$2b$12$W4cUkXr9xgM5j7Q9HubjAO8InYtD8veyz.d6uunVb847srnEBzBmC', 'owner', 'A011', 'Durgesh Shukla', 'dvs@g.com', '7777777777', NULL, '2025-09-01 15:05:59.258283', NULL, false, 'au9OMzHg');
+INSERT INTO public.users VALUES (3, 'owner_rajesh_kumar', '$2b$12$1234567890abcdef', 'owner', 'A101', 'Rajesh Kumar', 'rajesh.kumar@email.com', '9876543210', NULL, '2025-09-01 15:10:16.983363', NULL, false, 'raj123');
+INSERT INTO public.users VALUES (4, 'owner_priya_sharma', '$2b$12$1234567890abcdef', 'owner', 'A102', 'Priya Sharma', 'priya.sharma@email.com', '9876543211', NULL, '2025-09-01 15:10:16.983363', NULL, false, 'priya456');
+INSERT INTO public.users VALUES (5, 'owner_amit_patel', '$2b$12$1234567890abcdef', 'owner', 'A103', 'Amit Patel', 'amit.patel@email.com', '9876543212', NULL, '2025-09-01 15:10:16.983363', NULL, false, 'amit789');
+INSERT INTO public.users VALUES (6, 'owner_sunita_singh', '$2b$12$1234567890abcdef', 'owner', 'B101', 'Sunita Singh', 'sunita.singh@email.com', '9876543213', NULL, '2025-09-01 15:10:16.983363', NULL, false, 'sun123');
+INSERT INTO public.users VALUES (7, 'owner_vikash_gupta', '$2b$12$1234567890abcdef', 'owner', 'B102', 'Vikash Gupta', 'vikash.gupta@email.com', '9876543214', NULL, '2025-09-01 15:10:16.983363', NULL, false, 'vik456');
+INSERT INTO public.users VALUES (8, 'owner_meera_jain', '$2b$12$1234567890abcdef', 'owner', 'B103', 'Meera Jain', 'meera.jain@email.com', '9876543215', NULL, '2025-09-01 15:10:16.983363', NULL, false, 'meer789');
+INSERT INTO public.users VALUES (9, 'owner_rohit_mehta', '$2b$12$1234567890abcdef', 'owner', 'C101', 'Rohit Mehta', 'rohit.mehta@email.com', '9876543216', NULL, '2025-09-01 15:10:16.983363', NULL, false, 'roh123');
+INSERT INTO public.users VALUES (10, 'owner_kavita_agarwal', '$2b$12$1234567890abcdef', 'owner', 'C102', 'Kavita Agarwal', 'kavita.agarwal@email.com', '9876543217', NULL, '2025-09-01 15:10:16.983363', NULL, false, 'kav456');
+INSERT INTO public.users VALUES (11, 'owner_suresh_yadav', '$2b$12$1234567890abcdef', 'owner', 'C103', 'Suresh Yadav', 'suresh.yadav@email.com', '9876543218', NULL, '2025-09-01 15:10:16.983363', NULL, false, 'sur789');
+INSERT INTO public.users VALUES (12, 'owner_anita_verma', '$2b$12$1234567890abcdef', 'owner', 'D101', 'Anita Verma', 'anita.verma@email.com', '9876543219', NULL, '2025-09-01 15:10:16.983363', NULL, false, 'ani123');
+INSERT INTO public.users VALUES (13, 'tenant_rahul_joshi', '$2b$12$1234567890abcdef', 'tenant', 'A201', 'Rahul Joshi', 'rahul.joshi@email.com', '8876543210', NULL, '2025-09-01 15:10:24.194349', NULL, false, 'rah123');
+INSERT INTO public.users VALUES (14, 'tenant_pooja_mishra', '$2b$12$1234567890abcdef', 'tenant', 'A202', 'Pooja Mishra', 'pooja.mishra@email.com', '8876543211', NULL, '2025-09-01 15:10:24.194349', NULL, false, 'poo456');
+INSERT INTO public.users VALUES (15, 'tenant_sachin_pandey', '$2b$12$1234567890abcdef', 'tenant', 'B201', 'Sachin Pandey', 'sachin.pandey@email.com', '8876543212', NULL, '2025-09-01 15:10:24.194349', NULL, false, 'sac789');
+INSERT INTO public.users VALUES (16, 'tenant_deepika_roy', '$2b$12$1234567890abcdef', 'tenant', 'B202', 'Deepika Roy', 'deepika.roy@email.com', '8876543213', NULL, '2025-09-01 15:10:24.194349', NULL, false, 'deep123');
+INSERT INTO public.users VALUES (17, 'tenant_manoj_thakur', '$2b$12$1234567890abcdef', 'tenant', 'C201', 'Manoj Thakur', 'manoj.thakur@email.com', '8876543214', NULL, '2025-09-01 15:10:24.194349', NULL, false, 'man456');
+INSERT INTO public.users VALUES (18, 'tenant_ritu_bansal', '$2b$12$1234567890abcdef', 'tenant', 'C202', 'Ritu Bansal', 'ritu.bansal@email.com', '8876543215', NULL, '2025-09-01 15:10:24.194349', NULL, false, 'rit789');
+INSERT INTO public.users VALUES (19, 'tenant_abhishek_goyal', '$2b$12$1234567890abcdef', 'tenant', 'D201', 'Abhishek Goyal', 'abhishek.goyal@email.com', '8876543216', NULL, '2025-09-01 15:10:24.194349', NULL, false, 'abhi123');
+INSERT INTO public.users VALUES (20, 'tenant_shweta_saxena', '$2b$12$1234567890abcdef', 'tenant', 'D202', 'Shweta Saxena', 'shweta.saxena@email.com', '8876543217', NULL, '2025-09-01 15:10:24.194349', NULL, false, 'shw456');
+INSERT INTO public.users VALUES (1, 'admin', '$2b$12$tP3xGTxEV8KQbuqWrbJnPu64cFIsyE11MnW0UdGLblIWebQf3gRZK', 'admin', 'ADMIN', 'System Administrator', 'admin@societysync.com', NULL, NULL, '2025-09-01 15:01:59.064826', '2025-09-01 15:27:57.962161', true, 'admin123');
+INSERT INTO public.users VALUES (21, 'owner_durgesh_shukla_1', '$2b$12$HZYSKwaPkZYKYtO6jq9NVecpqtAiPZEW7IIE.b8okF7oPmLdai.EK', 'owner', 'B064', 'Durgesh Shukla', 'dvs@gm.com', '1122334455', NULL, '2025-09-01 15:30:28.773962', '2025-09-01 15:32:14.010906', true, 'RUD48Kb0');
+
+INSERT INTO public.bills VALUES (1, 'A011', 'Maintenance', 1000.00, '2025-10-01', 'pending', NULL, NULL, '2025-09-01 15:06:31.603037', 1);
+INSERT INTO public.bills VALUES (3, 'A101', 'Electricity', 2500.00, '2024-09-25', 'paid', NULL, NULL, '2025-09-01 15:10:40.304459', 1);
+INSERT INTO public.bills VALUES (5, 'A102', 'Water', 800.00, '2024-09-20', 'overdue', NULL, NULL, '2025-09-01 15:10:40.304459', 1);
+INSERT INTO public.bills VALUES (6, 'A103', 'Maintenance', 5000.00, '2024-09-30', 'paid', NULL, NULL, '2025-09-01 15:10:40.304459', 1);
+INSERT INTO public.bills VALUES (9, 'B101', 'Security', 1500.00, '2024-09-28', 'paid', NULL, NULL, '2025-09-01 15:10:40.304459', 1);
+INSERT INTO public.bills VALUES (10, 'B102', 'Maintenance', 5200.00, '2024-09-30', 'overdue', NULL, NULL, '2025-09-01 15:10:40.304459', 1);
+INSERT INTO public.bills VALUES (11, 'B102', 'Electricity', 3200.00, '2024-09-22', 'paid', NULL, NULL, '2025-09-01 15:10:40.304459', 1);
+INSERT INTO public.bills VALUES (13, 'C101', 'Maintenance', 4800.00, '2024-09-30', 'paid', NULL, NULL, '2025-09-01 15:10:40.304459', 1);
+INSERT INTO public.bills VALUES (15, 'C103', 'Water', 900.00, '2024-09-18', 'overdue', NULL, NULL, '2025-09-01 15:10:40.304459', 1);
+INSERT INTO public.bills VALUES (2, 'A101', 'Maintenance', 5000.00, '2024-09-30', 'overdue', NULL, NULL, '2025-09-01 15:10:40.304459', 1);
+INSERT INTO public.bills VALUES (4, 'A102', 'Maintenance', 5000.00, '2024-09-30', 'overdue', NULL, NULL, '2025-09-01 15:10:40.304459', 1);
+INSERT INTO public.bills VALUES (7, 'A103', 'Parking', 1200.00, '2024-09-15', 'overdue', NULL, NULL, '2025-09-01 15:10:40.304459', 1);
+INSERT INTO public.bills VALUES (8, 'B101', 'Maintenance', 5200.00, '2024-09-30', 'overdue', NULL, NULL, '2025-09-01 15:10:40.304459', 1);
+INSERT INTO public.bills VALUES (12, 'B103', 'Maintenance', 5200.00, '2024-09-30', 'overdue', NULL, NULL, '2025-09-01 15:10:40.304459', 1);
+INSERT INTO public.bills VALUES (14, 'C102', 'Maintenance', 4800.00, '2024-09-30', 'overdue', NULL, NULL, '2025-09-01 15:10:40.304459', 1);
+INSERT INTO public.bills VALUES (16, 'D101', 'Maintenance', 4500.00, '2024-09-30', 'overdue', NULL, NULL, '2025-09-01 15:10:40.304459', 1);
+INSERT INTO public.bills VALUES (17, 'B064', 'Maintenance', 2000.00, '2025-10-01', 'paid', '2025-09-01', 'Online Banking', '2025-09-01 15:31:06.991072', 1);
+
+INSERT INTO public.complaints VALUES (1, 3, 'A101', 'Water Leakage in Bathroom', 'There is continuous water leakage from the bathroom ceiling for past 3 days', 'Plumbing', 'high', 'open', NULL, '2025-09-01 15:10:49.577714', '2025-09-01 15:10:49.577714', NULL);
+INSERT INTO public.complaints VALUES (2, 4, 'A102', 'Elevator Not Working', 'Main elevator has been out of order since yesterday morning', 'Elevator', 'urgent', 'in_progress', NULL, '2025-09-01 15:10:49.577714', '2025-09-01 15:10:49.577714', NULL);
+INSERT INTO public.complaints VALUES (3, 13, 'A201', 'Noise Disturbance', 'Loud music from neighboring flat during night hours', 'Noise', 'medium', 'open', NULL, '2025-09-01 15:10:49.577714', '2025-09-01 15:10:49.577714', NULL);
+INSERT INTO public.complaints VALUES (4, 5, 'A103', 'Parking Issue', 'Someone is parking in my designated parking slot', 'Parking', 'medium', 'resolved', NULL, '2025-09-01 15:10:49.577714', '2025-09-01 15:10:49.577714', NULL);
+INSERT INTO public.complaints VALUES (5, 6, 'B101', 'Power Outage', 'Frequent power cuts in B block for past week', 'Electrical', 'high', 'open', NULL, '2025-09-01 15:10:49.577714', '2025-09-01 15:10:49.577714', NULL);
+INSERT INTO public.complaints VALUES (6, 14, 'A202', 'Garbage Collection', 'Garbage not being collected regularly from our floor', 'Cleanliness', 'low', 'closed', NULL, '2025-09-01 15:10:49.577714', '2025-09-01 15:10:49.577714', NULL);
+INSERT INTO public.complaints VALUES (7, 7, 'B102', 'Security Concern', 'Main gate security guard absent during night shift', 'Security', 'urgent', 'in_progress', NULL, '2025-09-01 15:10:49.577714', '2025-09-01 15:10:49.577714', NULL);
+INSERT INTO public.complaints VALUES (8, 15, 'B201', 'Water Pressure Low', 'Very low water pressure during morning hours', 'Water Supply', 'medium', 'open', NULL, '2025-09-01 15:10:49.577714', '2025-09-01 15:10:49.577714', NULL);
+INSERT INTO public.complaints VALUES (9, 8, 'B103', 'Intercom Not Working', 'Intercom system not responding for past 2 days', 'Maintenance', 'low', 'resolved', NULL, '2025-09-01 15:10:49.577714', '2025-09-01 15:10:49.577714', NULL);
+INSERT INTO public.complaints VALUES (10, 16, 'B202', 'AC Not Cooling', 'Central AC not providing adequate cooling', 'Maintenance', 'medium', 'open', NULL, '2025-09-01 15:10:49.577714', '2025-09-01 15:10:49.577714', NULL);
+
+INSERT INTO public.notifications VALUES (1, 'Monthly Maintenance Due', 'Dear Residents, Monthly maintenance charges are due by 30th September 2024. Please clear your dues on time to avoid late fees.', 1, '2025-09-01 15:10:55.893256', 'normal');
+INSERT INTO public.notifications VALUES (2, 'Water Supply Maintenance', 'Water supply will be interrupted tomorrow from 10 AM to 2 PM for routine maintenance work. Please store water accordingly.', 1, '2025-09-01 15:10:55.893256', 'high');
+INSERT INTO public.notifications VALUES (3, 'Festival Celebration', 'Society is organizing Diwali celebration on 1st November. All residents are invited to participate. Registration starts next week.', 1, '2025-09-01 15:10:55.893256', 'normal');
+INSERT INTO public.notifications VALUES (4, 'Parking Guidelines', 'New parking guidelines have been implemented. Visitors parking is now available in basement. Please follow the new rules.', 1, '2025-09-01 15:10:55.893256', 'normal');
+INSERT INTO public.notifications VALUES (5, 'Security Update', 'New CCTV cameras have been installed in all common areas. This will enhance the security of our society premises.', 1, '2025-09-01 15:10:55.893256', 'low');
+
+INSERT INTO public.owners VALUES (1, 2, 'A011', '2025-09-01', '7777777777', '2025-09-01 15:05:59.384254');
+INSERT INTO public.owners VALUES (2, 3, 'A101', '2023-01-01', '9999999999', '2025-09-01 15:10:18.492627');
+INSERT INTO public.owners VALUES (3, 4, 'A102', '2023-01-01', '9999999999', '2025-09-01 15:10:18.492627');
+INSERT INTO public.owners VALUES (4, 5, 'A103', '2023-01-01', '9999999999', '2025-09-01 15:10:18.492627');
+INSERT INTO public.owners VALUES (5, 6, 'B101', '2023-01-01', '9999999999', '2025-09-01 15:10:18.492627');
+INSERT INTO public.owners VALUES (6, 7, 'B102', '2023-01-01', '9999999999', '2025-09-01 15:10:18.492627');
+INSERT INTO public.owners VALUES (7, 8, 'B103', '2023-01-01', '9999999999', '2025-09-01 15:10:18.492627');
+INSERT INTO public.owners VALUES (8, 9, 'C101', '2023-01-01', '9999999999', '2025-09-01 15:10:18.492627');
+INSERT INTO public.owners VALUES (9, 10, 'C102', '2023-01-01', '9999999999', '2025-09-01 15:10:18.492627');
+INSERT INTO public.owners VALUES (10, 11, 'C103', '2023-01-01', '9999999999', '2025-09-01 15:10:18.492627');
+INSERT INTO public.owners VALUES (11, 12, 'D101', '2023-01-01', '9999999999', '2025-09-01 15:10:18.492627');
+INSERT INTO public.owners VALUES (12, 21, 'B064', '2025-09-01', '1234567899', '2025-09-01 15:30:28.894687');
+
+INSERT INTO public.polls VALUES (1, 'Society Gym Equipment', 'What new equipment should we add to the society gym?', 1, '2025-09-01 15:10:58.864214', '2024-10-15', 'active');
+INSERT INTO public.polls VALUES (2, 'Festival Celebration Budget', 'What should be the budget for upcoming Diwali celebration?', 1, '2025-09-01 15:10:58.864214', '2024-09-25', 'active');
+INSERT INTO public.polls VALUES (3, 'Parking Solution', 'How to solve the visitor parking issue?', 1, '2025-09-01 15:10:58.864214', '2024-09-20', 'closed');
+
+INSERT INTO public.poll_options VALUES (2, 1, 'Weight Training Set', 8);
+INSERT INTO public.poll_options VALUES (3, 1, 'Yoga Mats and Accessories', 3);
+INSERT INTO public.poll_options VALUES (4, 1, 'Cycling Machine', 6);
+INSERT INTO public.poll_options VALUES (5, 2, '₹10,000', 2);
+INSERT INTO public.poll_options VALUES (6, 2, '₹15,000', 7);
+INSERT INTO public.poll_options VALUES (7, 2, '₹20,000', 4);
+INSERT INTO public.poll_options VALUES (8, 2, '₹25,000', 1);
+INSERT INTO public.poll_options VALUES (9, 3, 'Designate more visitor slots', 8);
+INSERT INTO public.poll_options VALUES (10, 3, 'Implement paid visitor parking', 3);
+INSERT INTO public.poll_options VALUES (11, 3, 'Create time-based restrictions', 5);
+INSERT INTO public.poll_options VALUES (1, 1, 'Treadmill', 6);
+
+INSERT INTO public.tenants VALUES (1, 14, 1, 'A202', 25000.00, '2024-01-01', '2024-12-31', 50000.00, '2025-09-01 15:10:32.677795');
+INSERT INTO public.tenants VALUES (2, 13, 1, 'A201', 25000.00, '2024-01-01', '2024-12-31', 50000.00, '2025-09-01 15:10:32.677795');
+INSERT INTO public.tenants VALUES (3, 14, 2, 'A202', 25000.00, '2024-01-01', '2024-12-31', 50000.00, '2025-09-01 15:10:32.677795');
+INSERT INTO public.tenants VALUES (4, 13, 2, 'A201', 25000.00, '2024-01-01', '2024-12-31', 50000.00, '2025-09-01 15:10:32.677795');
+INSERT INTO public.tenants VALUES (5, 14, 3, 'A202', 25000.00, '2024-01-01', '2024-12-31', 50000.00, '2025-09-01 15:10:32.677795');
+INSERT INTO public.tenants VALUES (6, 13, 3, 'A201', 25000.00, '2024-01-01', '2024-12-31', 50000.00, '2025-09-01 15:10:32.677795');
+INSERT INTO public.tenants VALUES (7, 14, 4, 'A202', 25000.00, '2024-01-01', '2024-12-31', 50000.00, '2025-09-01 15:10:32.677795');
+INSERT INTO public.tenants VALUES (8, 13, 4, 'A201', 25000.00, '2024-01-01', '2024-12-31', 50000.00, '2025-09-01 15:10:32.677795');
+
+INSERT INTO public.visitors VALUES (1, 'A101', 'Manish Tiwari', '9123456789', 'Family Visit', '2024-09-01 10:30:00', NULL, 'DL-01-AB-1234', 1, 'out');
+INSERT INTO public.visitors VALUES (2, 'B102', 'Delivery Boy', '8123456789', 'Online Delivery', '2024-09-01 14:15:00', NULL, 'DL-02-CD-5678', 1, 'out');
+INSERT INTO public.visitors VALUES (3, 'A103', 'Ravi Kumar', '7123456789', 'Business Meeting', '2024-09-01 16:45:00', NULL, NULL, 1, 'in');
+INSERT INTO public.visitors VALUES (4, 'C101', 'Electrician', '9876123456', 'Repair Work', '2024-09-01 09:00:00', NULL, 'DL-03-EF-9012', 1, 'out');
+INSERT INTO public.visitors VALUES (5, 'D101', 'Neha Gupta', '8765432109', 'Friend Visit', '2024-09-01 18:30:00', NULL, NULL, 1, 'in');
+
+INSERT INTO public.votes VALUES (1, 1, 2, 3, '2025-09-01 15:11:16.528379');
+INSERT INTO public.votes VALUES (2, 1, 4, 4, '2025-09-01 15:11:16.528379');
+INSERT INTO public.votes VALUES (3, 1, 2, 13, '2025-09-01 15:11:16.528379');
+INSERT INTO public.votes VALUES (4, 2, 2, 5, '2025-09-01 15:11:16.528379');
+INSERT INTO public.votes VALUES (5, 2, 3, 6, '2025-09-01 15:11:16.528379');
+INSERT INTO public.votes VALUES (6, 3, 1, 7, '2025-09-01 15:11:16.528379');
+INSERT INTO public.votes VALUES (7, 1, 1, 21, '2025-09-01 15:34:57.784643');

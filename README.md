@@ -225,11 +225,28 @@ societysync-erp/
 
 ## 🖼️ Screenshots
 
-*Add your screenshots here for better visualization:*
 
+### Login Page
 ![Login Page](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Visitor Logs](screenshots/visitor_logs.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+### Flat Owner Dashboard
+![Flat Owner Dashboard](screenshots/flatowner_dashboard.png)
+
+### Manage Users
+![Manage Users](screenshots/manage_user.png)
+
+### Bills Section
+![Bills](screenshots/bills.png)
+
+### Notifications
+![Notifications](screenshots/notifications.png)
+
+### Polls & Voting
+![Polls](screenshots/polls.png)
+
 
 ---
 
@@ -247,11 +264,4 @@ societysync-erp/
 
 MIT License. See [LICENSE](LICENSE) for details.
 
-```
-
----
-
-If you want, I can also **add badges for Python version, Streamlit version, PostgreSQL, and GitHub stars/forks** to make it look even more **GitHub-professional**.  
-
-Do you want me to do that next?
 ```

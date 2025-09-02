@@ -258,10 +258,7 @@ societysync-erp/
 4. Push to branch (`git push origin feature-name`)
 5. Open a Pull Request
 
----
-
 ## 📄 License
 
-MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
-```

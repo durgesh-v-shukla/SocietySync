@@ -252,7 +252,7 @@ societysync-erp/
 
 ## 🤝 Contributing
 
-1. Fork the repository: [https://github.com/durgesh-v-shukla/SocietySync](https://github.com/durgesh-v-shukla/SocietySync)
+1. Fork the repository: [https://github.com/durgesh-v-shukla/SocietySync-Smart_Apartment_ERP_System](https://github.com/durgesh-v-shukla/SocietySync-Smart_Apartment_ERP_System)
 2. Create a feature branch (`git checkout -b feature-name`)
 3. Commit your changes (`git commit -m "Add new feature"`)
 4. Push to branch (`git push origin feature-name`)
